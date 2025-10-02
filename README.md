@@ -6,13 +6,19 @@ This project demonstrates a complete SQL-based data analytics pipeline - from da
 The project is organized into logical modules for easy navigation and understanding:
 
  **[SQL Business Intelligence](./sql-business-intelligence/)**
-│
-├── **[1.create_schema](./advance_analysis/create_schema.sql)**             ### Database setup and table creation
-├── **[2.EDA_Analysis.sql](./advance_analysis/EDA_Analysis.sql)**           ### Exploratory Data Analysis
-├── **[3.advance_analysis.sql](./advance_analysis/advance_analysis.sql)**   ### Advanced analytics and business insights
-├── **[4.customer_report.sql](./advance_analysis/customer_report.sql)**     ### Comprehensive customer analytics
-├── **[5.product_report.sql](./advance_analysis/product_report)**           ### Product performance analysis
-└── **[README](./README.md)**                                               ### Project documentation
+
+- **[1.create_schema](./advance_analysis/create_schema.sql)**             ### Database setup and table creation
+
+-  **[2.EDA_Analysis.sql](./advance_analysis/EDA_Analysis.sql)**           ### Exploratory Data Analysis
+   
+-  *[3.advance_analysis.sql](./advance_analysis/advance_analysis.sql)**   ### Advanced analytics and business insights
+  
+-  **[4.customer_report.sql](./advance_analysis/customer_report.sql)**     ### Comprehensive customer analytics
+  
+-  *[5.product_report.sql](./advance_analysis/product_report)**           ### Product performance analysis
+  
+-  *[README](./README.md)**                                               ### Project documentation
+  
 
 ## File Details
 **[1.create_schema](./advance_analysis/create_schema.sql)**
