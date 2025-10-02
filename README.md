@@ -109,19 +109,19 @@ The project is organized into logical modules for easy navigation and understand
 
 **Dimension Tables**
 
-**dim_customers:** Customer demographics and attributes
+- **dim_customers:** Customer demographics and attributes
 
-**dim_products:** Product hierarchy and cost information
+- **dim_products:** Product hierarchy and cost information
 
 **Fact Table**
 
-**fact_sales:** Transactional sales data with foreign keys to dimensions
+- **fact_sales:** Transactional sales data with foreign keys to dimensions
 
-###Getting Started
+### Getting Started
 
-Execution Order
+- Execution Order
 
-For first-time setup, run the files in this sequence:
+- For first-time setup, run the files in this sequence:
 
 ## Start with schema creation:
 
@@ -142,10 +142,11 @@ sql
 
 sql
  **[SOURCE 4.customer_report.sql;](./advance_analysis/customer_report.sql)**
+ 
  **[SOURCE 5.product_report.sql;](./advance_analysis/product_report)**
 
 ### Quick Access to Reports
-sql
+
 -- Customer Analytics
 SELECT * FROM **[report_customer;](./advance_analysis/customer_report.sql)**
 
