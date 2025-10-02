@@ -147,10 +147,10 @@ sql
 
 ### Quick Access to Reports
 
--- Customer Analytics
+- Customer Analytics
 SELECT * FROM **[report_customer;](./advance_analysis/customer_report.sql)**
 
--- Product Performance
+- Product Performance
 SELECT * FROM **[product_report;](./advance_analysis/product_report)**
 
 ## Technical Skills Demonstrated
