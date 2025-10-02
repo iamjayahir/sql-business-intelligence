@@ -7,17 +7,17 @@ The project is organized into logical modules for easy navigation and understand
 
  **[SQL Business Intelligence](./sql-business-intelligence/)**
 
-- **[1.create_schema](./advance_analysis/create_schema.sql)**             ### Database setup and table creation
+- **[1.create_schema](./advance_analysis/create_schema.sql)**             Database setup and table creation
 
--  **[2.EDA_Analysis.sql](./advance_analysis/EDA_Analysis.sql)**           ### Exploratory Data Analysis
+-  **[2.EDA_Analysis.sql](./advance_analysis/EDA_Analysis.sql)**          Exploratory Data Analysis
    
--  *[3.advance_analysis.sql](./advance_analysis/advance_analysis.sql)**   ### Advanced analytics and business insights
+-  **[3.advance_analysis.sql](./advance_analysis/advance_analysis.sql)**  Advanced analytics and business insights
   
--  **[4.customer_report.sql](./advance_analysis/customer_report.sql)**     ### Comprehensive customer analytics
+-  **[4.customer_report.sql](./advance_analysis/customer_report.sql)**    Comprehensive customer analytics
   
--  *[5.product_report.sql](./advance_analysis/product_report)**           ### Product performance analysis
+-  **[5.product_report.sql](./advance_analysis/product_report)**          Product performance analysis
   
--  *[README](./README.md)**                                               ### Project documentation
+-  **[README](./README.md)**                                               Project documentation
   
 
 ## File Details
